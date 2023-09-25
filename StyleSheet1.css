@@ -1,0 +1,45 @@
+﻿body {
+    background-image: url(´fondo.PNG´);
+}
+ .navbar{
+    background-color: black;
+    padding: 6px 0;
+    display:block;
+    justify-content: space-between;
+    align-items: center;
+}
+ul.navbar li {
+    margin-right: 20px;
+}
+.logo img {
+    width: 100px; 
+    height: auto;
+    margin-left: 20px; 
+}
+.imagensita img {
+    width: 800px; /* Ancho de la imagensita (ajusta según tus necesidades) */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin-right:auto ; /* Empuja la imagensita hacia la derecha */
+}
+ .navbar li:nth-child(1) a {
+    text-decoration:auto;
+    color: floralwhite;
+    font-weight: 700;
+}
+ .navbar li:nth-child(2) a {
+    text-decoration:auto;
+    color: floralwhite;
+    font-weight: 700;
+}
+ .navbar li:nth-child(3) a {
+    text-decoration: auto;
+    color: floralwhite;
+    font-weight: 700;
+}
+ .navbar li:nth-child(4) a {
+    text-decoration: auto;
+    color: floralwhite;
+    font-weight: 700;
+}
+
+
